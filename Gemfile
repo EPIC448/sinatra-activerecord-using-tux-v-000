@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem 'activerecord', :require => 'active_record'
 gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
 
+gem 'install bundler'
 gem 'sinatra'
 gem 'need_migration?'
 gem 'sqlite3'
